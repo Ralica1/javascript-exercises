@@ -1,2 +1,1 @@
 # Exercise XX - <%= title %>
-
